@@ -1,5 +1,5 @@
 # AprokoBot
-a chatbot built with js. Its an attempt to mirror small talks, its a WIP and will be built upon when I get the chance to.
+A simple chatbot built with js. Its an attempt to mirror small talks, its a WIP and will be built upon when I get the chance to.
 
 Aproko asks simple questions like
 
